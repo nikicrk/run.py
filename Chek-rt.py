@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 # Recode<💓Nikyyi.py💓>
+Ngapa anjing
 
 import requests,mechanize,bs4,sys,os,subprocess,uuid
 import requests,sys,random,time,re,base64,json
